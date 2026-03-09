@@ -1,0 +1,12 @@
+Status: Optimal
+Job 1 start time: 4.7
+Job 2 start time: 1.2
+Job 3 start time: 7.5
+Job 4 start time: 10.7
+Job 5 start time: 12.7
+Job 6 start time: 0
+
+Execution Order:
+6 → 2 → 1 → 3 → 4 → 5
+
+Optimal Makespan: 23.7
